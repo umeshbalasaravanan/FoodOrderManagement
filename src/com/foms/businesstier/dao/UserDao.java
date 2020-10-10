@@ -35,6 +35,7 @@ public class UserDao {
 		ps = connection.prepareStatement(query.getSearchQuery());
 		ps.setString(1, username);
 		ps.setString(2, password);
+		System.out.println(ps.toString());
 		rs = ps.executeQuery();
 		User user = new User();
 		System.out.println("before while block");

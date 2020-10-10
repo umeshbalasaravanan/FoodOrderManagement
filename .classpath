@@ -13,21 +13,21 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/spring-webmvc-4.0.0.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/aopalliance-1.0.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/commons-logging-1.1.1-api.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/org.springframework.asm-3.1.2.release.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/spring-core-3.1.2.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/spring-context-3.1.2.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/spring-aop-3.1.2.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/spring-context-support-3.1.2.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/jstl-1.2-1.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/spring jars/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/spring jars/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/spring-web-3.0.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/servlet-api.jar"/>
-	<classpathentry kind="lib" path="/Volumes/d drive/studies/PG/jars/spring-web-servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/commons-logging-1.1.1-api.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/jstl-1.2-1.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/log4j-1.2.17.zip"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/spring-context-support-3.1.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/spring-webmvc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/spring-web-servlet.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/spring-web-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/spring-core-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/spring-context-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/spring-aop-3.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/org.springframework.asm-3.1.2.release.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/spring jars/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="/Users/umeshbalasaravanan/for_umesh/studies/PG/jars/spring jars/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

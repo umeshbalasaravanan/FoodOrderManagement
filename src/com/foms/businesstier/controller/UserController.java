@@ -23,15 +23,15 @@ public class UserController {
 	@RequestMapping("/searchUser.htm")
 	public ModelAndView searchUser(HttpServletRequest request,HttpServletResponse response) throws SQLException, ClassNotFoundException {
 		
-		try {
-			if(request == null || response == null) {
-				log.info("Request or response failed for search user");
-				System.out.println("request or response failed fr search user");
-			}
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+//		try {
+//			if(request == null || response == null) {
+//				log.info("Request or response failed for search user");
+//				System.out.println("request or response failed fr search user");
+//			}
+//		} catch (Exception e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 		String username = request.getParameter("username");
 		String password = request.getParameter("password");
 		System.out.println("username "+ username);
