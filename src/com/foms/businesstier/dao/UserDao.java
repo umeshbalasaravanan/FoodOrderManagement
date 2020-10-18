@@ -5,6 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
 
 import org.apache.log4j.Logger;
 import org.springframework.context.ApplicationContext;
@@ -37,6 +38,7 @@ public class UserDao {
 		ps.setString(2, password);
 		System.out.println(ps.toString());
 		rs = ps.executeQuery();
+		//ArrayList<User> userList = new ArrayList<>();
 		User user = new User();
 		System.out.println("before while block");
 		while(rs.next()) {
@@ -47,6 +49,7 @@ public class UserDao {
 			user.setLname(rs.getString(4));
 			user.setPhoneNumber(rs.getString(5));
 			user.setAddress(rs.getString(6));
+			//userList.add(user);
 		}
 		return user;
 		
